@@ -23,7 +23,7 @@ use Sulu\Component\Security\Authorization\SecurityCondition;
 
 class SecuritytxtAdmin extends Admin
 {
-    final public const SYSTEM = 'BitExpert';
+    final public const SYSTEM = 'Sulu';
     final public const SECURITY_CONTEXT = 'sulu.securitytxt';
     final public const SECURITYTXT_LIST_KEY = 'securitytxt';
     final public const SECURITYTXT_LIST_VIEW = 'sulu.securitytxt_list';
